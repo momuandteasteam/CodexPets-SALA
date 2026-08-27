@@ -1,5 +1,8 @@
 # Installation
 
+> [!IMPORTANT]
+> Installation is permitted only for personal, non-commercial use. Redistribution, reposting, mirroring, bundling, sale, commercial use, asset extraction, and modification or derivative use are prohibited. See the [SALA Personal-Use License](../LICENSE.md).
+
 ## Windows
 
 From the repository root:

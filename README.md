@@ -2,6 +2,9 @@
 
 SALAをCodexデスクトップ向けのちびキャラペットにした、CodexPet v2パッケージです。
 
+> [!IMPORTANT]
+> **個人・非商用でのインストールのみ許可されています。再配布不可です。** 再配布、転載、再アップロード、ミラー、同梱配布、販売、商用利用、素材の抜き出し利用、改変版・派生物の作成または配布は禁止されています。詳細は[個人利用ライセンス](LICENSE.md)を確認してください。
+
 ![SALA animation contact sheet](assets/contact-sheet.png)
 
 ## 日本語
@@ -46,10 +49,14 @@ macOS / Linux:
 - [アニメーション仕様](docs/ANIMATION_SPEC.md)
 - [QA・検証結果](docs/QA.md)
 - [クレジット](CREDITS.md)
+- [ライセンス・利用条件](LICENSE.md)
 
 ## English
 
 CodexPet SALA is a chibi cyber-idol pet package for the Codex desktop app. It contains nine standard animation states and sixteen clockwise look directions in a transparent CodexPet v2 atlas.
+
+> [!IMPORTANT]
+> **Installation is permitted only for personal, non-commercial use. Redistribution is prohibited.** Reposting, re-uploading, mirroring, bundling, sale, commercial use, asset extraction, and the creation or distribution of modifications or derivative works are not permitted. See the [Personal-Use License](LICENSE.md).
 
 Run `scripts/install.ps1` on Windows or `scripts/install.sh` on macOS/Linux. The scripts copy the contents of `pet/` into `<CODEX_HOME>/pets/sala/`.
 

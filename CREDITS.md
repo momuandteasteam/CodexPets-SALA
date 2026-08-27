@@ -5,4 +5,8 @@
 - CodexPet adaptation: created with OpenAI Codex and ImageGen
 - Packaging and validation: CodexPet v2 hatch-pet workflow
 
-No license grant for the character artwork is implied by this file. Usage rights remain with the applicable rights holder.
+## Rights and usage
+
+Copyright © 2026 momuandteasteam and the applicable rights holders. All rights reserved.
+
+This credit file does not grant any rights to the character artwork or other repository materials. Personal, non-commercial installation of the CodexPet package is permitted only under the [SALA Personal-Use License](LICENSE.md). Redistribution is prohibited.
