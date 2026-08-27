@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.3 - 2026-08-28
+
+- Replaced the illustrated README hero with a shallow, wide banner assembled from six exact frames in the packaged Codex Pet atlas.
+- Arranged greeting, movement, waiting, active work, review, and celebration poses into a playful left-to-right workday flow.
+
 ## 1.0.2 - 2026-08-28
 
 - Added a character-sheet-grounded chibi SALA hero image for the README.

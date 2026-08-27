@@ -2,7 +2,7 @@
 
 - Character: SALA
 - Source character art: supplied by the repository owner and not included in this repository
-- README hero illustration: created with OpenAI ImageGen from the owner-supplied character sheet
+- README hero composition: exact frames from the packaged Codex Pet over an OpenAI ImageGen-created background
 - CodexPet adaptation: created with OpenAI Codex and ImageGen
 - Packaging and validation: CodexPet v2 hatch-pet workflow
 
