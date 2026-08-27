@@ -1,7 +1,8 @@
 # Credits
 
 - Character: SALA
-- Character sheet: supplied by the repository owner
+- Source character art: supplied by the repository owner and not included in this repository
+- README hero illustration: created with OpenAI ImageGen from the owner-supplied character sheet
 - CodexPet adaptation: created with OpenAI Codex and ImageGen
 - Packaging and validation: CodexPet v2 hatch-pet workflow
 

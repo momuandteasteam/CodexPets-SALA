@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2 - 2026-08-28
+
+- Added a character-sheet-grounded chibi SALA hero image for the README.
+- Replaced the README contact sheet with the hero image while keeping animation evidence in the QA documentation.
+
 ## 1.0.1 - 2026-08-28
 
 - Unified SALA and Rin under the same Personal-Use License v1.1 structure.

@@ -2,10 +2,10 @@
 
 SALAをCodexデスクトップ向けのちびキャラペットにした、CodexPet v2パッケージです。
 
+![光のアイデアを差し出すSALAのCodex Petヒーローイメージ](assets/hero.png)
+
 > [!IMPORTANT]
 > **個人・非商用のローカル利用のみ許可されています。再配布禁止です。** GitHub標準の閲覧・forkと正規リポジトリへのリンク共有を除き、転載、再アップロード、ミラー、同梱、商用利用、素材抽出、視覚素材の改変・派生利用、AI学習利用は禁止されています。詳細は[個人利用ライセンス](LICENSE.md)と[利用ガイド](docs/LICENSE_GUIDE.md)を確認してください。
-
-![SALA animation contact sheet](assets/contact-sheet.png)
 
 ## 日本語
 
@@ -67,7 +67,7 @@ The local custom-pet layout is app-level behavior rather than a published public
 
 ```text
 .
-├── assets/                 # Preview and source-reference images
+├── assets/                 # README hero and QA visuals
 ├── docs/                   # Installation, animation, and QA documentation
 ├── pet/                    # Installable CodexPet package
 ├── qa/                     # Machine-readable validation evidence
