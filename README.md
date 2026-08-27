@@ -1,9 +1,9 @@
-# CodexPet SALA
+# Codex Pet — SALA
 
 SALAをCodexデスクトップ向けのちびキャラペットにした、CodexPet v2パッケージです。
 
 > [!IMPORTANT]
-> **個人・非商用でのインストールのみ許可されています。再配布不可です。** 再配布、転載、再アップロード、ミラー、同梱配布、販売、商用利用、素材の抜き出し利用、改変版・派生物の作成または配布は禁止されています。詳細は[個人利用ライセンス](LICENSE.md)を確認してください。
+> **個人・非商用のローカル利用のみ許可されています。再配布禁止です。** GitHub標準の閲覧・forkと正規リポジトリへのリンク共有を除き、転載、再アップロード、ミラー、同梱、商用利用、素材抽出、視覚素材の改変・派生利用、AI学習利用は禁止されています。詳細は[個人利用ライセンス](LICENSE.md)と[利用ガイド](docs/LICENSE_GUIDE.md)を確認してください。
 
 ![SALA animation contact sheet](assets/contact-sheet.png)
 
@@ -48,6 +48,7 @@ macOS / Linux:
 - [インストール詳細](docs/INSTALLATION.md)
 - [アニメーション仕様](docs/ANIMATION_SPEC.md)
 - [QA・検証結果](docs/QA.md)
+- [ライセンス利用ガイド](docs/LICENSE_GUIDE.md)
 - [クレジット](CREDITS.md)
 - [ライセンス・利用条件](LICENSE.md)
 
@@ -56,7 +57,7 @@ macOS / Linux:
 CodexPet SALA is a chibi cyber-idol pet package for the Codex desktop app. It contains nine standard animation states and sixteen clockwise look directions in a transparent CodexPet v2 atlas.
 
 > [!IMPORTANT]
-> **Installation is permitted only for personal, non-commercial use. Redistribution is prohibited.** Reposting, re-uploading, mirroring, bundling, sale, commercial use, asset extraction, and the creation or distribution of modifications or derivative works are not permitted. See the [Personal-Use License](LICENSE.md).
+> **Only personal, non-commercial local use is permitted. Redistribution is prohibited.** Except for GitHub’s standard viewing/fork functionality and links to this official repository, reposting, re-uploading, mirroring, bundling, commercial use, asset extraction, visual modifications or derivative uses, and AI-training use are prohibited. See the [Personal-Use License](LICENSE.md) and [usage guide](docs/LICENSE_GUIDE.md).
 
 Run `scripts/install.ps1` on Windows or `scripts/install.sh` on macOS/Linux. The scripts copy the contents of `pet/` into `<CODEX_HOME>/pets/sala/`.
 

@@ -9,4 +9,4 @@
 
 Copyright © 2026 momuandteasteam and the applicable rights holders. All rights reserved.
 
-This credit file does not grant any rights to the character artwork or other repository materials. Personal, non-commercial installation of the CodexPet package is permitted only under the [SALA Personal-Use License](LICENSE.md). Redistribution is prohibited.
+This credit file does not grant any rights to the character artwork or other repository materials. Only personal, non-commercial local use is permitted under the [SALA Personal-Use License](LICENSE.md). Redistribution is prohibited.

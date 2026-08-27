@@ -1,7 +1,7 @@
 # Installation
 
 > [!IMPORTANT]
-> Installation is permitted only for personal, non-commercial use. Redistribution, reposting, mirroring, bundling, sale, commercial use, asset extraction, and modification or derivative use are prohibited. See the [SALA Personal-Use License](../LICENSE.md).
+> Only personal, non-commercial local use is permitted. Redistribution, reposting, mirroring, bundling, sale, commercial use, asset extraction, visual modifications or derivative uses, and AI-training use are prohibited. GitHub’s standard viewing/fork functionality and links to this official repository are handled as described in the [SALA Personal-Use License](../LICENSE.md).
 
 ## Windows
 
